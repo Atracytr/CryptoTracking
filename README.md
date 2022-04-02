@@ -34,16 +34,15 @@ An app to track up-to-dated cryptocies.
 
 ### 2. Screen Archetypes
 
-* Login 
-* Register - User signs up or logs into their account
 * Main page
 
-### 3. Navigation
+#### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Up-to-dated cryptocies data market
+* News Page
+Optional
+* Trading page
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
