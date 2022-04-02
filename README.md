@@ -44,6 +44,10 @@ An app to track up-to-dated cryptocies.
 Optional
 * Trading page
 
+** Flow Navigation (Screen to Screen)
+* Clicked on the app -> Show Main page showing the market data
+* News Selection -> Showing news page with the newest news about
+
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
