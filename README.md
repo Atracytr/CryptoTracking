@@ -1,4 +1,5 @@
-# CRYPTO TRACKING
+# CRYPTO TRACKER
+[New Respository](https://github.com/Zavins/CryptoTracker).
 
 ## 
 1. [App that shows the status of cryptocurrencies and news of crptoCurrencises](#Overview)
